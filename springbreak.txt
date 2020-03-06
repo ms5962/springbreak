@@ -1,0 +1,5 @@
+To plan:
+-Flights
+-Airbnb
+-Itinerary
+-Packing
