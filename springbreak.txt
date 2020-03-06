@@ -3,3 +3,5 @@ To plan:
 -Airbnb
 -Itinerary
 -Packing
+-Food
+-Nightlife
